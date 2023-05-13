@@ -5,7 +5,7 @@
 <li><a href="https://www.cloudskillsboost.google/quests/128?catalog_rank=%7B%22rank%22%3A19%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Build and Secure Networks in Google Cloud </a>  (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/124?catalog_rank=%7B%22rank%22%3A11%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Cloud Architecture: Design, Implement, and Manage</a>  (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/230">Create and Manage AlloyDB Databases</a></li>
-<li><a href="https://www.cloudskillsboost.google/quests/120?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Create and Manage Cloud Resources</a></li>
+<li><a href="https://www.cloudskillsboost.google/quests/120?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Create and Manage Cloud Resources</a> (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/146">Create ML Models with BigQuery ML</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/121?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Deploy and Manage Cloud Environments with Google Cloud</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/116">Deploy to Kubernetes in Google Cloud</a></li>
@@ -20,6 +20,6 @@
 <li><a href="https://www.cloudskillsboost.google/quests/157">Optimize Costs for Google Kubernetes Engine</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/117">Perform Foundational Data, ML, and AI Tasks in Google Cloud</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/118?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Perform Foundational Infrastructure Tasks in Google Cloud </a> (done)</li>
-<li><a href="https://www.cloudskillsboost.google/quests/254">Securing your Network with Cloud Armor</a></li>
+<li><a href="https://www.cloudskillsboost.google/quests/254">Securing your Network with Cloud Armor</a> on progress</li>
 <li><a href="https://www.cloudskillsboost.google/quests/153?catalog_rank=%7B%22rank%22%3A49%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Serverless Firebase Development </a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/119?catalog_rank=%7B%22rank%22%3A15%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Set Up and Configure a Cloud Environment in Google Cloud </a> (done)</li>
