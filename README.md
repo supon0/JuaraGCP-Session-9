@@ -21,5 +21,5 @@
 <li><a href="https://www.cloudskillsboost.google/quests/117">Perform Foundational Data, ML, and AI Tasks in Google Cloud</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/118?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Perform Foundational Infrastructure Tasks in Google Cloud </a> (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/254">Securing your Network with Cloud Armor</a> on progress kurang 1 lab</li>
-<li><a href="https://www.cloudskillsboost.google/quests/153?catalog_rank=%7B%22rank%22%3A49%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Serverless Firebase Development </a></li>
+<li><a href="https://www.cloudskillsboost.google/quests/153?catalog_rank=%7B%22rank%22%3A49%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Serverless Firebase Development </a>on progress</li>
 <li><a href="https://www.cloudskillsboost.google/quests/119?catalog_rank=%7B%22rank%22%3A15%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Set Up and Configure a Cloud Environment in Google Cloud </a> (done)</li>
