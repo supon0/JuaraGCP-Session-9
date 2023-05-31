@@ -7,7 +7,7 @@
 <li><a href="https://www.cloudskillsboost.google/quests/230">Create and Manage AlloyDB Databases</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/120?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Create and Manage Cloud Resources</a> (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/146">Create ML Models with BigQuery ML</a></li>
-<li><a href="https://www.cloudskillsboost.google/quests/121?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Deploy and Manage Cloud Environments with Google Cloud</a></li>
+<li><a href="https://www.cloudskillsboost.google/quests/121?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Deploy and Manage Cloud Environments with Google Cloud</a> on progress</li>
 <li><a href="https://www.cloudskillsboost.google/quests/116">Deploy to Kubernetes in Google Cloud</a> (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/132">Engineer Data in Google Cloud</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/150?catalog_rank=%7B%22rank%22%3A51%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Ensure Access &amp; Identity in Google Cloud </a></li>
