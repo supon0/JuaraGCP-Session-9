@@ -14,7 +14,7 @@
 <li><a href="https://www.cloudskillsboost.google/quests/165">Exploring Data with Looker</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/36">Google Cloud Solutions I: Scaling Your Infrastructure</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/64">Google Kubernetes Engine Best Practices: Security</a></li>
-<li><a href="https://www.cloudskillsboost.google/quests/141?catalog_rank=%7B%22rank%22%3A33%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Implement DevOps in Google Cloud </a></li>
+<li><a href="https://www.cloudskillsboost.google/quests/141?catalog_rank=%7B%22rank%22%3A33%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Implement DevOps in Google Cloud </a>(on progress)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/123">Insights from Data with BigQuery</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/189">Measure Site Reliability using Cloud Operations Suite</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/157">Optimize Costs for Google Kubernetes Engine</a></li>
