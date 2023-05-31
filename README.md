@@ -10,7 +10,7 @@
 <li><a href="https://www.cloudskillsboost.google/quests/121?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Deploy and Manage Cloud Environments with Google Cloud</a> on progress</li>
 <li><a href="https://www.cloudskillsboost.google/quests/116">Deploy to Kubernetes in Google Cloud</a> (done)</li>
 <li><a href="https://www.cloudskillsboost.google/quests/132">Engineer Data in Google Cloud</a></li>
-<li><a href="https://www.cloudskillsboost.google/quests/150?catalog_rank=%7B%22rank%22%3A51%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Ensure Access &amp; Identity in Google Cloud </a></li>
+<li><a href="https://www.cloudskillsboost.google/quests/150?catalog_rank=%7B%22rank%22%3A51%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D">Ensure Access &amp; Identity in Google Cloud </a> on progress</li>
 <li><a href="https://www.cloudskillsboost.google/quests/165">Exploring Data with Looker</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/36">Google Cloud Solutions I: Scaling Your Infrastructure</a></li>
 <li><a href="https://www.cloudskillsboost.google/quests/64">Google Kubernetes Engine Best Practices: Security</a></li>
